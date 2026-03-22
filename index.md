@@ -12,7 +12,7 @@
 *Estudio integral sobre las métricas que definen el éxito y la valoración de apps móviles.*
 * **Herramientas:** Python (Pandas, Seaborn), Limpieza de Datos.
 * **Logro:** Identificación de categorías con baja saturación y alta rentabilidad.
-![Visualización Play Store](playstore_chart.png)
+![Visualización Play Store](playstore.png)
 [📂 Ver Proyecto en GitHub](https://github.com/alfredobrocalserrano/google-play-store-analysis)
 
 ---
