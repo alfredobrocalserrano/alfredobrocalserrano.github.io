@@ -1,36 +1,53 @@
-# Alfredo Brocal Serrano
-### 🚀 Jr. Data Analyst | Estudiante de Data Science (UCM)
+# 👨‍💻 Alfredo Brocal Serrano
+### **Jr. Data Analyst | Data Science & Big Data Student**
+*Transformando datos en decisiones estratégicas*
 
-Bienvenido a mi portfolio. Aquí encontrarás una selección de mis proyectos donde aplico **Python, SQL y Power BI** para extraer valor de los datos.
-
----
-
-## 📊 Proyectos Destacados
-
-### 1. Análisis de Sentimientos y Limpieza de Datos (Twitter)
-* **Descripción:** Procesamiento y limpieza de grandes volúmenes de datos textuales para identificar tendencias de opinión.
-* **Herramientas:** Python (Pandas, NLTK), Limpieza de datos.
-* [Ver Proyecto en GitHub](https://github.com/alfredobrocalserrano/twitter-sentiment-cleaning)
-
-### 2. Sistema de Consultas Corporativas (RAG)
-* **Descripción:** Implementación de un sistema de IA para interrogar documentos mediante lenguaje natural.
-* **Herramientas:** Python, GenAI, Procesamiento de Texto.
-* [Ver Proyecto en GitHub](https://github.com/alfredobrocalserrano/rag-analisis-corporativo)
-
-### google-play-store-analysis 
-* **Descripción:** Este proyecto analiza más de 10.000 apps de la Play Store para identificar los factores que determinan el éxito (ratings e instalaciones).
-* * **Herramientas:** Python y Power BI.
-* * [Ver código en GitHub](https://github.com/alfredobrocalserrano/google-play-store-analysis)
+[LinkedIn](https://www.linkedin.com/in/alfredo-brocal-serrano-a0b1a73ab/) | [GitHub](https://github.com/alfredobrocalserrano) | [Email](alfredobrocalserrano@gmail.com)
 
 ---
 
-## 🛠️ Habilidades Técnicas
-* **Lenguajes:** Python (Pandas, Matplotlib, Seaborn), SQL.
-* **Herramientas:** Power BI, Microsoft Excel, Tableau.
-* **Certificaciones:** Google Data Analytics Professional Certificate.
+## 🚀 Proyectos Destacados
+
+### 📱 Análisis de Mercado: Google Play Store
+*Estudio integral sobre las métricas que definen el éxito y la valoración de apps móviles.*
+* **Herramientas:** Python (Pandas, Seaborn), Limpieza de Datos.
+* **Logro:** Identificación de categorías con baja saturación y alta rentabilidad.
+![Visualización Play Store](playstore_chart.png)
+[📂 Ver Proyecto en GitHub](https://github.com/alfredobrocalserrano/google-play-store-analysis)
 
 ---
 
-## 📫 Contacto
-* [LinkedIn](TU_URL_DE_LINKEDIN_AQUI)
-* [Email](tu.email@ejemplo.com)
+### 🤖 Sistema de Consultas Inteligentes (RAG)
+*Implementación de IA Generativa para la gestión de conocimiento mediante lenguaje natural.*
+* **Herramientas:** GenAI, Python, LangChain, FAISS.
+* **Logro:** Optimización en la recuperación de información corporativa compleja.
+![Demo RAG](rag_preview.png)
+[📂 Ver Proyecto en GitHub](https://github.com/alfredobrocalserrano/rag-analisis-corporativo)
+
+---
+
+### 🐦 Sentiment Analysis: Limpieza de Datos (Twitter)
+*Procesamiento de lenguaje natural y limpieza de datasets masivos de redes sociales.*
+* **Herramientas:** Python (NLTK, Re), Expresiones Regulares.
+* **Logro:** Pipeline de limpieza que reduce el ruido del dataset en un 90% para mejorar la precisión del modelo.
+![Nube de palabras Twitter](twitter_preview.png)
+[📂 Ver Proyecto en GitHub](https://github.com/alfredobrocalserrano/twitter-sentiment-cleaning)
+
+---
+
+## 🛠️ Stack Tecnológico
+| **Datos** | **Visualización** | **Herramientas** |
+| :--- | :--- | :--- |
+| Python (Pandas/NumPy) | Power BI | SQL (MySQL) |
+| Machine Learning | Tableau | Microsoft Excel |
+
+---
+
+## 🎓 Educación y Certificaciones
+* **Máster Data Science & Big Data** - Universidad Complutense de Madrid
+* **Grado en Gestión de Información** - Universidad de Murcia
+* **Google Data Analytics Professional Certificate** (Google/Coursera)
+
+---
+
+### 📄 [Descargar mi CV en PDF](LINK_A_TU_CV.pdf)
