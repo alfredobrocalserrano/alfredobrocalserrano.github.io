@@ -3,7 +3,6 @@
 *Transformando datos en decisiones estratégicas*
 
 [LinkedIn](https://www.linkedin.com/in/alfredo-brocal-serrano-a0b1a73ab/) | [GitHub](https://github.com/alfredobrocalserrano) | [Email](alfredobrocalserrano@gmail.com)
-
 ![Visualización Perfil](Alfredoperfil.png)
 
 ---
