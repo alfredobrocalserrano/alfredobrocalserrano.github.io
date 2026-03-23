@@ -48,14 +48,14 @@
 ---
 
 ## 🛠️ Stack Tecnológico
-<div style="text-align: center; margin-top: 20px;">
-  <img src="logo_python.png" alt="Python" width="50" style="margin: 0 15px;">
-  <img src="logo_sql.png" alt="SQL" width="50" style="margin: 0 15px;">
-  <img src="logo_powerbi.png" alt="Power BI" width="50" style="margin: 0 15px;">
-  <img src="logo_excel.png" alt="Excel" width="50" style="margin: 0 15px;">
-  <img src="logo_tableau.png" alt="Tableau" width="50" style="margin: 0 15px;">
-</div>
-
+<div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="logo_python.png" alt="Python" width="60" style="margin: 0 20px;">
+  <img src="logo_sql.png" alt="SQL" width="60" style="margin: 0 20px;">
+  <img src="logo_powerbi.png" alt="Power BI" width="60" style="margin: 0 20px;">
+  <img src="logo_excel.png" alt="Excel" width="60" style="margin: 0 20px;">
+   <img src="logo_tableau.png" alt="Tableau" width="50" style="margin: 0 15px;">
+  </div>
+  
 ---
 
 ## 🎓 Educación y Certificaciones
