@@ -41,6 +41,14 @@
   <a href="https://github.com/alfredobrocalserrano/rag-analisis-corporativo">Ver Proyecto en GitHub</a>
 </div>
 
+<div style="background: #f9f9f9; padding: 20px; border-radius: 10px; border: 1px solid #ddd; margin-bottom: 30px;">
+  <h3>🐦 Sentiment Analysis: Limpieza de Datos (Twitter)</h3>
+  <p><i>Procesamiento de lenguaje natural y limpieza de datasets masivos de redes sociales.</i></p>
+  <img src="twitter.png" style="width: 100%; border-radius: 5px; margin: 10px 0;">
+  <p><b>Logro:</b> Creación de un pipeline de limpieza con RegEx que reduce el ruido del dataset en un 90%, optimizando la precisión de modelos posteriores.</p>
+  <a href="https://github.com/alfredobrocalserrano/twitter-sentiment-cleaning" style="color: #159957; font-weight: bold; text-decoration: none;">📂 Ver Proyecto en GitHub</a>
+</div>
+
 <p align="center" style="margin-top: 50px;">
   <a href="TU_LINK_PDF" style="background-color: #159957; color: white; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-weight: bold;">📥 Descargar CV Completo</a>
 </p>cal.Serrano.pdf)
