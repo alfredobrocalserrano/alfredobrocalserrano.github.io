@@ -28,7 +28,7 @@
 *Implementación de IA Generativa para la gestión de conocimiento mediante lenguaje natural.*
 * **Herramientas:** GenAI, Python, LangChain, FAISS.
 * **Logro:** Optimización en la recuperación de información corporativa compleja.
-![Demo RAG](rag_preview.png)
+![Demo RAG](rag.png)
 [📂 Ver Proyecto en GitHub](https://github.com/alfredobrocalserrano/rag-analisis-corporativo)
 
 ---
