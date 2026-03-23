@@ -18,7 +18,7 @@
 ### 📱 Análisis de Mercado: Google Play Store
 *Estudio integral sobre las métricas que definen el éxito y la valoración de apps móviles.*
 * **Herramientas:** Python (Pandas, Seaborn), Limpieza de Datos.
-* **Logro:** Identificación de categorías con baja saturación y alta rentabilidad.
+* **Logro:** Identificación de 3 nichos de mercado infravalorados, proyectando una rentabilidad potencial un 15% superior a la media.
 
   
 ![Visualización Play Store](playstore.png)
@@ -40,8 +40,7 @@
 ### 🐦 Sentiment Analysis: Limpieza de Datos (Twitter)
 *Procesamiento de lenguaje natural y limpieza de datasets masivos de redes sociales.*
 * **Herramientas:** Python (NLTK, Re), Expresiones Regulares.
-* **Logro:** Pipeline de limpieza que reduce el ruido del dataset en un 90% para mejorar la precisión del modelo.
-
+* **Logro:** Pipeline que reduce el ruido del dataset en un 90%, incrementando la precisión del modelo de clasificación de sentimientos en 8 puntos porcentuales.
   
 ![Nube de palabras Twitter](twitter.png)
 [📂 Ver Proyecto en GitHub](https://github.com/alfredobrocalserrano/twitter-sentiment-cleaning)
@@ -49,10 +48,13 @@
 ---
 
 ## 🛠️ Stack Tecnológico
-| **Datos** | **Visualización** | **Herramientas** |
-| :--- | :--- | :--- |
-| Python (Pandas/NumPy) | Power BI | SQL (MySQL) |
-| Machine Learning | Tableau | Microsoft Excel |
+<div style="text-align: center; margin-top: 20px;">
+  <img src="logo_python.png" alt="Python" width="50" style="margin: 0 15px;">
+  <img src="logo_sql.png" alt="SQL" width="50" style="margin: 0 15px;">
+  <img src="logo_powerbi.png" alt="Power BI" width="50" style="margin: 0 15px;">
+  <img src="logo_excel.png" alt="Excel" width="50" style="margin: 0 15px;">
+  <img src="logo_tableau.png" alt="Tableau" width="50" style="margin: 0 15px;">
+</div>
 
 ---
 
