@@ -1,4 +1,4 @@
-<img src="https://alfredobrocalserrano.github.io/Alfredoperfil.jpeg" style="float: left; width: 25%; max-width: 150px; margin-right: 20px; border-radius: 10px;" alt="Foto de perfil de Alfredo Brocal">
+<img src="https://alfredobrocalserrano.github.io/Alfredoperfil.jpeg" style="float: left; width: 25%; max-width: 150px; margin-right: 20px; border-radius: 10px;" 
 # 👨‍💻 Alfredo Brocal Serrano
 ### **Jr. Data Analyst | Data Science & Big Data Student**
 *Transformando datos en decisiones estratégicas*
