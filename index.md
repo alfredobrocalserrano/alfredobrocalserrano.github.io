@@ -2,6 +2,7 @@
   <img src="Alfredoperfil.jpeg" style="width: 130px; border-radius: 50%; border: 3px solid #eee; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 0.8em; color: #666; margin-top: 10px;">Data Scientist en formación</p>
 </div>
+
 # 👨‍💻 Alfredo Brocal Serrano
 ### **Jr. Data Analyst | Data Science & Big Data Student**
 *Transformando datos en decisiones estratégicas*
