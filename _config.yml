@@ -1,10 +1,3 @@
-# CONFIGURACIÓN DEL SITIO ALFREDO BROCAL
 title: Alfredo Brocal Serrano
-description: Portfolio de Data Analyst
-theme: jekyll-theme-orderedlist # Mantenemos tu tema actual
-
-# --- NUEVA SECCIÓN DE BARRA LATERAL (SIDEBAR) ---
-sidebar:
-  # Inyectamos la foto debajo del título y "View GitHub"
-  - <img src="https://alfredobrocalserrano.github.io/Alfredoperfil.jpeg" style="width: 100%; max-width: 140px; margin-top: 20px; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;" alt="Alfredo Brocal">
-# -----------------------------------------------
+description: Jr. Data Analyst | Data Science Student
+theme: jekyll-theme-orderedlist
