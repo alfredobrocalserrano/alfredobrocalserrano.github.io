@@ -1,7 +1,7 @@
 # CONFIGURACIÓN DEL SITIO ALFREDO BROCAL
 title: Alfredo Brocal Serrano
 description: Portfolio de Data Analyst
-theme: jekyll-theme-orderedlist # Mantenemos tu tema actual
+theme: jekyll-theme-cayman # Mantenemos tu tema actual
 
 # --- NUEVA SECCIÓN DE BARRA LATERAL (SIDEBAR) ---
 sidebar:
