@@ -1,10 +1,10 @@
-<img src="https://alfredobrocalserrano.github.io/Alfredoperfil.jpeg" style="float: left; width: 25%; max-width: 150px; margin-right: 20px; border-radius: 10px;" 
+<img src="https://alfredobrocalserrano.github.io/Alfredoperfil.jpeg" style="float: left; width: 25%; max-width: 150px; margin-right: 20px; border-radius: 10px;"> 
 # 👨‍💻 Alfredo Brocal Serrano
 ### **Jr. Data Analyst | Data Science & Big Data Student**
 *Transformando datos en decisiones estratégicas*
 
 [LinkedIn](https://www.linkedin.com/in/alfredo-brocal-serrano-a0b1a73ab/) | [GitHub](https://github.com/alfredobrocalserrano) | [Email](alfredobrocalserrano@gmail.com)
-<img src="https://alfredobrocalserrano.github.io/Alfredoperfil.jpeg" style="float: left; width: 25%; max-width: 150px; margin-right: 20px; border-radius: 10px;" alt="Foto de perfil de Alfredo Brocal">
+
 
 ---
 
