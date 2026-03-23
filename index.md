@@ -6,7 +6,7 @@
 ### **Jr. Data Analyst | Data Science & Big Data Student**
 *Transformando datos en decisiones estratégicas*
 
-[LinkedIn](https://www.linkedin.com/in/alfredo-brocal-serrano-a0b1a73ab/) | [GitHub](https://github.com/alfredobrocalserrano) | [Email]([Email](mailto:alfredo.brocal@um.es?subject=Contacto%20desde%20Portfolio%20Data%20Science))
+[LinkedIn](https://www.linkedin.com/in/alfredo-brocal-serrano-a0b1a73ab/) | [GitHub](https://github.com/alfredobrocalserrano) | [Email](mailto:alfredobrocalserrano@gmail.com)
 
 <div style="clear: both;"></div>
 <hr>
