@@ -1,6 +1,6 @@
-<div style="position: absolute; left: -180px; top: 180px; text-align: center; width: 150px;">
+<div style="float: left; margin-right: 25px; width: 140px; text-align: center;">
   <img src="Alfredoperfil.jpeg" style="width: 130px; border-radius: 50%; border: 3px solid #eee; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <p style="font-size: 0.8em; color: #666; margin-top: 10px;">Data Scientist en formación</p>
+  <p style="font-size: 0.8em; color: #666; margin-top: 5px;">Data Science Student</p>
 </div>
 
 # 👨‍💻 Alfredo Brocal Serrano
@@ -9,7 +9,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/alfredo-brocal-serrano-a0b1a73ab/) | [GitHub](https://github.com/alfredobrocalserrano) | [Email](alfredobrocalserrano@gmail.com)
 
+<div style="clear: both;"></div>
 <hr>
+
 ---
 
 ## 🚀 Proyectos Destacados
