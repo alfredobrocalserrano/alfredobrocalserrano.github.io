@@ -78,7 +78,7 @@
 <hr>
 
 <p align="center" style="margin-top: 50px;">
-  <a href="TU_LINK_A_TU_CV.pdf" style="background-color: #159957; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 1.1em;">
+  <a href="Curriculum.Alfredo.Brocal.Serrano.pdf" style="background-color: #159957; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 1.1em;">
     📥 Descargar mi CV Completo (PDF)
   </a>
 </p>
