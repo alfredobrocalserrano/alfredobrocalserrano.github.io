@@ -23,13 +23,13 @@
 <hr>
 
 <h2 align="center">🛠️ Stack Tecnológico</h2>
-<p align="center" style="margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" style="margin: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" style="margin: 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="55" style="margin: 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="55" style="margin: 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="60" style="margin: 15px;">
-</p>
+<div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="logo_python.png" alt="Python" width="60" style="margin: 0 20px;">
+  <img src="logo_sql.png" alt="SQL" width="60" style="margin: 0 20px;">
+  <img src="logo_powerbi.png" alt="Power BI" width="60" style="margin: 0 20px;">
+  <img src="logo_excel.png" alt="Excel" width="60" style="margin: 0 20px;">
+  <img src="logo_tableau.png" alt="Tableau" width="60" style="margin: 0 20px;">
+  </div>
 
 <hr>
 
