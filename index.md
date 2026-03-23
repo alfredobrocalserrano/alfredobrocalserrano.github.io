@@ -63,4 +63,4 @@
 
 ---
 
-### 📄 [Descargar mi CV en PDF](LINK_A_TU_CV.pdf)
+### 📄 [Descargar mi CV en PDF](Curriculum.Alfredo.Brocal.Serrano.pdf)
